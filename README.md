@@ -20,6 +20,13 @@ This repository also serves as a part of our computing framework under the DeepB
 
 <br/><br/>
 
+## What is Federated Learning
+
+Federated Learning is a machine learning setting where the goal is to train a high-quality centralized model with training data distributed over a large number of clients each with unreliable and relatively slow network connections. 
+
+Each clients independently train the model by local data and update it to a center server, The typical clients in this setting are mobile phones, and communication efficiency is of utmost importance. 
+
+<br/><br/>
 
 ## The architectures of the Federated Learning framework
 
